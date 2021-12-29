@@ -1,0 +1,38 @@
+
+
+body {
+    background-image: url("images/newyear.jpg");
+    background-size: cover;
+    background-position: center center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h1{
+    text-align:center ;
+    position: relative;
+    margin: 50 100px;
+    margin-bottom: 0%;
+    color:#F6D860;
+    font-size: 4rem;
+    
+
+}
+
+.mainDiv{
+    text-align: center;
+
+}
+
+.divs{
+    display:inline-block;
+    line-height: 1rem;
+    padding-top: 20px;
+   margin: 0 20px;
+
+}
+
+.time{
+font-size: 4rem;
+
+}
