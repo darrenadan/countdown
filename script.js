@@ -1,4 +1,4 @@
-var newYear = new Date(' jan 1, 2022 00:00:00').getTime();  //nagset ng date, .getTime means access to standard time.
+var newYear = new Date(' jan 3, 2022 00:00:00').getTime();  //nagset ng date, .getTime means access to standard time.
 
 //1. first function
 function counter(){
